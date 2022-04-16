@@ -5,3 +5,10 @@ C:\Users\User\Desktop\Homework-14.04.2022\Homework-14.04.2022\obj\Debug\Homework
 C:\Users\User\Desktop\Homework-14.04.2022\Homework-14.04.2022\obj\Debug\Homework-14.04.2022.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Homework-14.04.2022\Homework-14.04.2022\obj\Debug\Homework-14.04.2022.exe
 C:\Users\User\Desktop\Homework-14.04.2022\Homework-14.04.2022\obj\Debug\Homework-14.04.2022.pdb
+C:\Users\User\Desktop\C# program\lessons\Aprel\Homework-14.04.2022\Homework-14.04.2022\bin\Debug\Homework-14.04.2022.exe.config
+C:\Users\User\Desktop\C# program\lessons\Aprel\Homework-14.04.2022\Homework-14.04.2022\bin\Debug\Homework-14.04.2022.exe
+C:\Users\User\Desktop\C# program\lessons\Aprel\Homework-14.04.2022\Homework-14.04.2022\bin\Debug\Homework-14.04.2022.pdb
+C:\Users\User\Desktop\C# program\lessons\Aprel\Homework-14.04.2022\Homework-14.04.2022\obj\Debug\Homework-14.04.2022.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# program\lessons\Aprel\Homework-14.04.2022\Homework-14.04.2022\obj\Debug\Homework-14.04.2022.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# program\lessons\Aprel\Homework-14.04.2022\Homework-14.04.2022\obj\Debug\Homework-14.04.2022.exe
+C:\Users\User\Desktop\C# program\lessons\Aprel\Homework-14.04.2022\Homework-14.04.2022\obj\Debug\Homework-14.04.2022.pdb
