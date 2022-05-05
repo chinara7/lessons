@@ -111,7 +111,7 @@ namespace Homework_18._04._2022
             //{
             //    Console.Write(item + ", ");
             //}
-            
+
             //Console.ReadLine();
             #endregion
 
@@ -123,53 +123,53 @@ namespace Homework_18._04._2022
              toplamını ekrana yazdırın. (Max və Min method'larından istifadə etmək olmaz)
              */
 
-            //int[] numArray = new int[100];
-            //Random rand = new Random();
-            //int minValue = numArray[0];
-            //int maxValue = numArray[0];
-            //int add = 0;
+            int[] numArray = new int[100];
+            Random rand = new Random();
+            int minValue = numArray[0];
+            int maxValue = numArray[0];
+            int add = 0;
 
-            //// elementler yaradildi
-            //for (int i = 0; i < numArray.Length; i++)
-            //{
-            //    int generate = rand.Next(1, 100000);
-            //    numArray[i] = generate;
-            //}
+            // elementler yaradildi
+            for (int i = 0; i < numArray.Length; i++)
+            {
+                int generate = rand.Next(1, 100000);
+                numArray[i] = generate;
+            }
 
-            //// Ən kiçik və ən böyük ədədin tapılması
-            //for (int m = 0; m < numArray.Length; m++)
-            //{
-            //    minValue = numArray[m];
-            //    for (int n = 0; n < numArray.Length; n++)
-            //    {
-            //        if (numArray[n] < minValue && numArray[n] != minValue)
-            //        {
-            //            minValue = numArray[n];
-            //        }
-            //        if (numArray[n] > maxValue && numArray[n] != maxValue)
-            //        {
-            //            maxValue = numArray[n];
-            //        }
-            //    }
-            //}
+            // Ən kiçik və ən böyük ədədin tapılması
+            for (int m = 0; m < numArray.Length; m++)
+            {
+                minValue = numArray[m];
+                for (int n = 0; n < numArray.Length; n++)
+                {
+                    if (numArray[n] < minValue && numArray[n] != minValue)
+                    {
+                        minValue = numArray[n];
+                    }
+                    if (numArray[n] > maxValue && numArray[n] != maxValue)
+                    {
+                        maxValue = numArray[n];
+                    }
+                }
+            }
 
-            //// Cəmin hesablanması
-            //foreach (int item in numArray)
-            //{
-            //    add += item;
-            //}
+            // Cəmin hesablanması
+            foreach (int item in numArray)
+            {
+                add += item;
+            }
 
-            //// Elementlərin ekrana yazılması
-            //foreach (int item in numArray)
-            //{
-            //    Console.Write(item + ", ");
-            //}
+            // Elementlərin ekrana yazılması
+            foreach (int item in numArray)
+            {
+                Console.Write(item + ", ");
+            }
 
-            //Console.WriteLine("\n");
-            //Console.WriteLine("Massivin elementlərinin cəmi - {0}", add);
-            //Console.WriteLine("Massivin ən kiçik ədədi - {0}", minValue);
-            //Console.WriteLine("Massivin ən böyük ədədi - {0}", maxValue);
-            //Console.ReadLine();
+            Console.WriteLine("\n");
+            Console.WriteLine("Massivin elementlərinin cəmi - {0}", add);
+            Console.WriteLine("Massivin ən kiçik ədədi - {0}", minValue);
+            Console.WriteLine("Massivin ən böyük ədədi - {0}", maxValue);
+            Console.ReadLine();
             #endregion
         }
     }
